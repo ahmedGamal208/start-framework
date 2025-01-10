@@ -1,0 +1,17 @@
+.active {
+  background-color: #1abc9c;
+  border-radius: 0.375rem;
+}
+
+nav .container .navbar-brand {
+  background-color: transparent;
+}
+
+nav {
+  transition: 0.5s;
+}
+
+.shrunk {
+  padding-top: 10px !important;
+  padding-bottom: 10px !important;
+}
